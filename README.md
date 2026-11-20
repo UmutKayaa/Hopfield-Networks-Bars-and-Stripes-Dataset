@@ -51,7 +51,7 @@ The experiments use the following parameters:
 
 Displays the generated Bars and Stripes patterns used as the training dataset for the Hopfield Network.
 
-![Figure 1](results/figure_1.png)
+![Figure 1](results/Figure_1.png)
 
 ### Figure 2 – Single Pattern Recall
 
@@ -62,7 +62,7 @@ The experiment uses a noise level of 0.5 and evaluates:
 - Number of errors
 - Exact pattern retrieval
 
-![Figure 2](results/figure_2.png)
+![Figure 2](results/Figure_2.png)
 
 ### Figure 3 – Accuracy vs Noise
 
@@ -70,7 +70,7 @@ Evaluates how increasing noise levels affect the retrieval accuracy of the Hopfi
 
 Noise levels range from 0.0 to 0.5, with increments of 0.05.
 
-![Figure 3](results/figure_3.png)
+![Figure 3](results/Figure_3.png)
 
 ### Figure 4 – Network Storage Capacity
 
@@ -84,25 +84,25 @@ The experiment considers the following sample sizes:
 - 15 patterns
 - 20 patterns
 
-![Figure 4](results/figure_4.png)
+![Figure 4](results/Figure_4.png)
 
 ### Figure 5 – Error Distribution (3 Stored Patterns)
 
 Visualizes the distribution of retrieval errors when the network stores 3 patterns.
 
-![Figure 5](results/figure_5.png)
+![Figure 5](results/Figure_5.png)
 
 ### Figure 6 – Error Distribution (6 Stored Patterns)
 
 Visualizes the distribution of retrieval errors when the network stores 6 patterns.
 
-![Figure 6](results/figure_6.png)
+![Figure 6](results/Figure_6.png)
 
 ### Figure 7 – Error Distribution (9 Stored Patterns)
 
 Visualizes the distribution of retrieval errors when the network stores 9 patterns.
 
-![Figure 7](results/figure_7.png)
+![Figure 7](results/Figure_7.png)
 
 ## Technologies Used
 
